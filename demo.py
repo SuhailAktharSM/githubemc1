@@ -19,3 +19,4 @@ for x in s:
                     elif x- y*(z+u) == 24:
                         print(f"{x}-{y}*({z}+{u})")
 print("hello")
+print("Iron Man")
