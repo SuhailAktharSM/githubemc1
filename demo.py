@@ -18,3 +18,4 @@ for x in s:
                         print(f"{y}*({z}+{u})-{x}")
                     elif x- y*(z+u) == 24:
                         print(f"{x}-{y}*({z}+{u})")
+print("hello")
